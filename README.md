@@ -1,2 +1,5 @@
 # nunuharshu
-This is wordpress project description
+
+
+
+#Wordpress theme - nunuharshu
